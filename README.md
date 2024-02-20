@@ -1,4 +1,4 @@
-### Hi there 👋, Welcome to my Github page!
+# Hi there 👋, Welcome to my Github page!
 
-I'm Varun currently working at ETS as a Senior Software Engineer Lead.
-I have 13+ years of experience working in various domains like full stack, backend engineering.
+- I'm Varun currently working as a Senior Software Engineer Lead.
+- I have 13+ years of experience working in various domains like full stack, backend engineering.
